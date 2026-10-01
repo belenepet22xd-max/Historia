@@ -1,0 +1,6 @@
+{
+  "name": "Crónicas del Destino - Motor de Ficción Interactiva",
+  "description": "Motor de aventuras narrativas inmersivas en misterio, policial, ciencia ficción y fantasía guiado por decisiones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
